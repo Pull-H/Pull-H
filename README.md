@@ -26,8 +26,5 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 <br/> 
 <p align="center">
 <a href="https://www.linkedin.com/in/gerson-pulache-0896472b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnadevv" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15206662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15206662" height="30" width="40" /></a>
-<a href="https://instagram.com/krishnadev_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnadev_v" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishnadev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnadev7" height="30" width="40" /></a>
 </p>  
 <br/> 
