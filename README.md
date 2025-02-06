@@ -1,15 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gerson
 ==================================================================================================================================
+I am a student passionate about web development.
 
-I am a FullStack Web Developer
-------------------------------
-
-Currently, I am 20 years old. Self-taught web developer specializing in the Mern stack with a year of experience working on real-world projects.When I encountered errors, stackoverflow was always my best friend.Using the Mern stack for real world projects is something I'm passionate about, but I'm also curious about learning new technologies
-
-* 🌍  I'm based in kerala, India
-* ✉️  You can contact me at [krishnadevv12@gmail.com](mailto:krishnadevv12@gmail.com)
-* 🧠  I'm learning MERN stack developement
-* 🤝  I'm open to collaborating on open source projects
+* 💻 I love exploring Front-End technologies, especially HTML, CSS, JavaScript, Tailwind CSS and React.
+* 🚀 Currently, I am working on projects to improve my skills in design and user experience.
+* 📚 Always looking for new challenges and opportunities to continue growing in the world of web development.
+* 📬 Let's talk! You can contact me or see more about my projects here on GitHub.
 
 
 <a href="https://www.github.com/krishnadev7" target="_blank" rel="noreferrer"><img
