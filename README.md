@@ -13,7 +13,8 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 
 <h1 align="center">Languages and Tools:</h1>
 <br/> 
-<p align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="70"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original-wordmark.svg" alt="CSS" width="70" height="70">
+<p align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="70"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original-wordmark.svg" alt="CSS" width="70" height="70"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/php/php-original.svg" alt="PHP" width="70" height="70"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="70" height="70"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/react/react-original-wordmark.svg" alt="React" width="70" height="70"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="70" height="70"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70">
+
 </p>
 <br/>  
 <br/> 
