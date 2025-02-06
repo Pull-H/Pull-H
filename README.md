@@ -20,12 +20,6 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 <br/>  
 <br/> 
 
-<h1 align="center">My stackoverflow Profile</h1>
-
-<div align="center">
-  
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=15206662)
-
 </div>
 
 <h1 align="center">Connect with me:</h1>
