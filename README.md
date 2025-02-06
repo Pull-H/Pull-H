@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 
 <h1 align="center">Languages and Tools:</h1>
 <br/> 
-<p align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50">
+<p align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="70">
 </p>
 <br/>  
 <br/> 
