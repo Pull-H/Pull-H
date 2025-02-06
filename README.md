@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 <h1 align="center">Languages and Tools:</h1>
 <br/> 
 <p align="center"><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,express,nestjs,mongodb,mysql,angular,react,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,laravel,mysql,angular,react,tailwind,git" />
   </a>
 </p>
 <br/>  
