@@ -32,8 +32,3 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 <a href="https://www.leetcode.com/krishnadev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnadev7" height="30" width="40" /></a>
 </p>  
 <br/> 
-
-  --------------------------------
-  Credit: [krishnadev7](https://github.com/krishnadev7)
-
-  Last Edited on: 25/06/2024
